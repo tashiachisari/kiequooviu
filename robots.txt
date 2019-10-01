@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aewaothaey.cuidi.xyz/sitemap.xml
